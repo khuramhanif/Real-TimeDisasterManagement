@@ -68,5 +68,5 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 ## Contact
 
-Khuram Hanif (https://www.linkedin.com/in/johndoe/)
+Khuram Hanif (https://www.linkedin.com/in/khuram-hanif/)
 khuramhanif42@gmail.com
